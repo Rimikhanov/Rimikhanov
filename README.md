@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Rimikhanov
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me - Gasan_007@icloud.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
 <!---
